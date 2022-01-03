@@ -1,9 +1,9 @@
 {
-  "name": "@johngeorgewright/ts-module",
+  "name": "node-stream-tag",
   "version": "1.5.2",
   "description": "Compose and react upon redux actions",
   "private": true,
-  "main": "dist/ts-module.js",
+  "main": "dist/node-stream-tag.js",
   "scripts": {
     "build": "yarn clean && tsc",
     "clean": "rimraf dist",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johngeorgewright/ts-module.git"
+    "url": "git+https://github.com/johngeorgewright/node-stream-tag.git"
   },
   "keywords": [],
   "author": "John Wright <johngeorge.wright@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/johngeorgewright/ts-module/issues"
+    "url": "https://github.com/johngeorgewright/node-stream-tag/issues"
   },
-  "homepage": "https://github.com/johngeorgewright/ts-module#readme",
+  "homepage": "https://github.com/johngeorgewright/node-stream-tag#readme",
   "devDependencies": {
     "@commitlint/cli": "16.0.1",
     "@commitlint/config-conventional": "16.0.0",

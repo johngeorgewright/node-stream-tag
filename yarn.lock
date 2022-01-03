@@ -898,9 +898,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@johngeorgewright/ts-module@workspace:.":
+"node-stream-tag@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@johngeorgewright/ts-module@workspace:."
+  resolution: "node-stream-tag@workspace:."
   dependencies:
     "@commitlint/cli": 16.0.1
     "@commitlint/config-conventional": 16.0.0
