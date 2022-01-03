@@ -19,18 +19,16 @@ const server = new Server((_, res) => {
 </head>
 <body>
   <p>
-    I will now wait for ${secs} secs then say hello... ${hello(secs)}
+    I will now wait for ${secs} secs then say hello... ${setTimeout(
+    secs * 1_000,
+    '<b>Hello</b>'
+  )}
   </p>
 </body>
 </html>`.pipe(res)
 }).listen(3_000, () => console.info('server listening on', server.address()))
-
-async function hello(secs: number) {
-  await setTimeout(secs * 1_000)
-  return '<b>Hello</b>'
-}
 ```
 
 The above example will immediately push a string on to the response, and then will wait for 2secs before finishing.
 
-**When using promises, you must ensure that handle errors correctly, otherwise your stream may break.**
+**When using promises, you must ensure they handle errors correctly, otherwise your stream may break.**
