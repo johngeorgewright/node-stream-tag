@@ -1,6 +1,6 @@
 {
   "name": "node-stream-tag",
-  "version": "1.5.2",
+  "version": "1.0.0",
   "description": "Compose and react upon redux actions",
   "main": "dist/node-stream-tag.js",
   "scripts": {
