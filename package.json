@@ -1,6 +1,6 @@
 {
   "name": "node-stream-tag",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Compose and react upon redux actions",
   "main": "dist/node-stream-tag.js",
   "scripts": {
@@ -35,7 +35,7 @@
     "@types/node": "16.11.18",
     "@types/source-map-support": "0.5.4",
     "commitizen": "4.2.4",
-    "concurrently": "6.5.1",
+    "concurrently": "7.0.0",
     "cz-conventional-changelog": "3.3.0",
     "husky": "7.0.4",
     "jest": "27.4.5",
