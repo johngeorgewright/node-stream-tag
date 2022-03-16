@@ -49,7 +49,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["husky", "npm:7.0.4"],\
             ["jest", "virtual:e1fa9002cb512606eb6708afc81993ad37bf1d5a36958ae85119d2c2a284b30fd1f192e0b0edb1bd7219cd67810a3f19472e96586a84eb2fafaa827f0a7641c8#npm:27.5.1"],\
             ["lint-staged", "npm:12.3.6"],\
-            ["prettier", "npm:2.5.1"],\
+            ["prettier", "npm:2.6.0"],\
             ["rimraf", "npm:3.0.2"],\
             ["semantic-release", "npm:19.0.2"],\
             ["source-map-support", "npm:0.5.21"],\
@@ -7667,7 +7667,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["husky", "npm:7.0.4"],\
             ["jest", "virtual:e1fa9002cb512606eb6708afc81993ad37bf1d5a36958ae85119d2c2a284b30fd1f192e0b0edb1bd7219cd67810a3f19472e96586a84eb2fafaa827f0a7641c8#npm:27.5.1"],\
             ["lint-staged", "npm:12.3.6"],\
-            ["prettier", "npm:2.5.1"],\
+            ["prettier", "npm:2.6.0"],\
             ["rimraf", "npm:3.0.2"],\
             ["semantic-release", "npm:19.0.2"],\
             ["source-map-support", "npm:0.5.21"],\
@@ -8422,10 +8422,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["prettier", [\
-        ["npm:2.5.1", {\
-          "packageLocation": "./.yarn/cache/prettier-npm-2.5.1-58b195b509-21b9408476.zip/node_modules/prettier/",\
+        ["npm:2.6.0", {\
+          "packageLocation": "./.yarn/cache/prettier-npm-2.6.0-fb29989f51-3e527ad622.zip/node_modules/prettier/",\
           "packageDependencies": [\
-            ["prettier", "npm:2.5.1"]\
+            ["prettier", "npm:2.6.0"]\
           ],\
           "linkType": "HARD"\
         }]\
