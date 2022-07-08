@@ -1,7 +1,7 @@
 {
   "name": "node-stream-tag",
   "version": "1.1.1",
-  "description": "Compose and react upon redux actions",
+  "description": "A tagged template literal for streams.",
   "main": "dist/node-stream-tag.js",
   "scripts": {
     "build": "yarn clean && tsc",
