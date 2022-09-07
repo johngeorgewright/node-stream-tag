@@ -44,7 +44,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:16.11.57"],\
             ["@types/source-map-support", "npm:0.5.6"],\
             ["commitizen", "npm:4.2.5"],\
-            ["concurrently", "npm:7.3.0"],\
+            ["concurrently", "npm:7.4.0"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["husky", "npm:8.0.1"],\
             ["jest", "virtual:e1fa9002cb512606eb6708afc81993ad37bf1d5a36958ae85119d2c2a284b30fd1f192e0b0edb1bd7219cd67810a3f19472e96586a84eb2fafaa827f0a7641c8#npm:28.1.3"],\
@@ -4070,12 +4070,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["concurrently", [\
-        ["npm:7.3.0", {\
-          "packageLocation": "./.yarn/cache/concurrently-npm-7.3.0-0123c57666-5de845e494.zip/node_modules/concurrently/",\
+        ["npm:7.4.0", {\
+          "packageLocation": "./.yarn/cache/concurrently-npm-7.4.0-6a6d8e6457-cc547866ad.zip/node_modules/concurrently/",\
           "packageDependencies": [\
-            ["concurrently", "npm:7.3.0"],\
+            ["concurrently", "npm:7.4.0"],\
             ["chalk", "npm:4.1.2"],\
-            ["date-fns", "npm:2.23.0"],\
+            ["date-fns", "npm:2.29.2"],\
             ["lodash", "npm:4.17.21"],\
             ["rxjs", "npm:7.5.5"],\
             ["shell-quote", "npm:1.7.3"],\
@@ -4351,10 +4351,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["date-fns", [\
-        ["npm:2.23.0", {\
-          "packageLocation": "./.yarn/cache/date-fns-npm-2.23.0-fa1182c861-485216d550.zip/node_modules/date-fns/",\
+        ["npm:2.29.2", {\
+          "packageLocation": "./.yarn/cache/date-fns-npm-2.29.2-da48c27e93-08bebcceb0.zip/node_modules/date-fns/",\
           "packageDependencies": [\
-            ["date-fns", "npm:2.23.0"]\
+            ["date-fns", "npm:2.29.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -7928,7 +7928,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:16.11.57"],\
             ["@types/source-map-support", "npm:0.5.6"],\
             ["commitizen", "npm:4.2.5"],\
-            ["concurrently", "npm:7.3.0"],\
+            ["concurrently", "npm:7.4.0"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["husky", "npm:8.0.1"],\
             ["jest", "virtual:e1fa9002cb512606eb6708afc81993ad37bf1d5a36958ae85119d2c2a284b30fd1f192e0b0edb1bd7219cd67810a3f19472e96586a84eb2fafaa827f0a7641c8#npm:28.1.3"],\
