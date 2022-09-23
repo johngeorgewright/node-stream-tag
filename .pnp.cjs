@@ -41,7 +41,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/npm", "virtual:e1fa9002cb512606eb6708afc81993ad37bf1d5a36958ae85119d2c2a284b30fd1f192e0b0edb1bd7219cd67810a3f19472e96586a84eb2fafaa827f0a7641c8#npm:9.0.1"],\
             ["@semantic-release/release-notes-generator", "virtual:e1fa9002cb512606eb6708afc81993ad37bf1d5a36958ae85119d2c2a284b30fd1f192e0b0edb1bd7219cd67810a3f19472e96586a84eb2fafaa827f0a7641c8#npm:10.0.3"],\
             ["@types/jest", "npm:29.0.3"],\
-            ["@types/node", "npm:16.11.59"],\
+            ["@types/node", "npm:16.11.60"],\
             ["@types/source-map-support", "npm:0.5.6"],\
             ["commitizen", "npm:4.2.5"],\
             ["concurrently", "npm:7.4.0"],\
@@ -2738,10 +2738,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:16.11.59", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-16.11.59-7c6d766715-b3a2986ef8.zip/node_modules/@types/node/",\
+        ["npm:16.11.60", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-16.11.60-02f48990e1-8c9670801f.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:16.11.59"]\
+            ["@types/node", "npm:16.11.60"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -7924,7 +7924,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/npm", "virtual:e1fa9002cb512606eb6708afc81993ad37bf1d5a36958ae85119d2c2a284b30fd1f192e0b0edb1bd7219cd67810a3f19472e96586a84eb2fafaa827f0a7641c8#npm:9.0.1"],\
             ["@semantic-release/release-notes-generator", "virtual:e1fa9002cb512606eb6708afc81993ad37bf1d5a36958ae85119d2c2a284b30fd1f192e0b0edb1bd7219cd67810a3f19472e96586a84eb2fafaa827f0a7641c8#npm:10.0.3"],\
             ["@types/jest", "npm:29.0.3"],\
-            ["@types/node", "npm:16.11.59"],\
+            ["@types/node", "npm:16.11.60"],\
             ["@types/source-map-support", "npm:0.5.6"],\
             ["commitizen", "npm:4.2.5"],\
             ["concurrently", "npm:7.4.0"],\
@@ -10275,7 +10275,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@tsconfig/node12", "npm:1.0.9"],\
             ["@tsconfig/node14", "npm:1.0.1"],\
             ["@tsconfig/node16", "npm:1.0.2"],\
-            ["@types/node", "npm:16.11.59"],\
+            ["@types/node", "npm:16.11.60"],\
             ["@types/swc__core", null],\
             ["@types/swc__wasm", null],\
             ["@types/typescript", null],\
