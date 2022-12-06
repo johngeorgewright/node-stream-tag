@@ -38,7 +38,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:29.2.4"],\
             ["@types/node", "npm:18.11.11"],\
             ["@types/source-map-support", "npm:0.5.6"],\
-            ["commitizen", "npm:4.2.5"],\
+            ["commitizen", "npm:4.2.6"],\
             ["concurrently", "npm:7.6.0"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["husky", "npm:8.0.2"],\
@@ -4043,10 +4043,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:4.2.5", {\
-          "packageLocation": "./.yarn/cache/commitizen-npm-4.2.5-926ae634bf-28f5d10cf3.zip/node_modules/commitizen/",\
+        ["npm:4.2.6", {\
+          "packageLocation": "./.yarn/cache/commitizen-npm-4.2.6-d83eace98b-4423b25900.zip/node_modules/commitizen/",\
           "packageDependencies": [\
-            ["commitizen", "npm:4.2.5"],\
+            ["commitizen", "npm:4.2.6"],\
             ["cachedir", "npm:2.3.0"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["dedent", "npm:0.7.0"],\
@@ -8117,7 +8117,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:29.2.4"],\
             ["@types/node", "npm:18.11.11"],\
             ["@types/source-map-support", "npm:0.5.6"],\
-            ["commitizen", "npm:4.2.5"],\
+            ["commitizen", "npm:4.2.6"],\
             ["concurrently", "npm:7.6.0"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
             ["husky", "npm:8.0.2"],\
